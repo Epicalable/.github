@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/69076784/237032044-7bfe4d95-3f84-4036-9557-e45f008fad38.png"> 
+    <img src="https://github.com/Epicalable/epicalable.github.io/assets/119758164/0b5041d9-ab5c-48ef-97fe-294adc76263d"> 
 </p>
 
 ## About Epicalable
