@@ -21,7 +21,7 @@ These are projects constantly updated and maintained by our team:
 
 2. [ComDash](https://github.com/Epicalable/ComDash): 
    <p align="left">
-    <img width="150" src="https://github.com/Epicalable/ComDash/assets/69076784/8258784f-a5d5-4d56-8f30-52905989a17b">
+    <img width="150" src="https://github.com/Epicalable/.github/assets/69076784/d3ba6a3a-333d-4cdf-b263-42c350fe1190">
    </p>
    A Computer All in one Web based Dashboard for News, Weathers and More. (Still In Work In Progress)
 
