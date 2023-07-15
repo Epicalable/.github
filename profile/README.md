@@ -39,8 +39,5 @@ Check out our website to learn more about who we are and what we do:- [Epicalabl
 
   <a href="https://twitter.com/_Epicalable_" target="_blank">
      <img align="center" width="24px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/12ee805794a25a29fa6c6299cdfdd343f245b795/icons/Twitter.svg"/>
-  </a> &nbsp;&nbsp;
-    <br>
-    <br>
-    <img width="20%" align="center" src="https://github.com/Epicalable/epicalable.github.io/assets/119758164/0b5041d9-ab5c-48ef-97fe-294adc76263d">
+  </a>
 </p >
