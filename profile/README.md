@@ -28,7 +28,9 @@ These are projects currently being constantly updated and maintained by our team
    ComDash is an All-in-one Stunning Web-based Dashboard for News, Weathers and More for it's Users using APIs and uses Html, CSS and JavaScript for it's frontend.
 
 # Our website And External Links
-Check out our website to learn more about who we are and what we do:- [Epicalable](https://epicalable.github.io/epicalable.html)
+Check out our Official Website to learn more about who we are and what we do:- [Epicalable](https://epicalable.github.io/epicalable.html)    
+Check out our R&D Website to look through our posted research papers and articles:- [R&D](https://epicrd.github.io/RDdept.html)    
+To get the latest news and updates from our organization:- [News](https://codingaviator.github.io/Epicnews.html)  
 
 <br>
 <p align="center">  
