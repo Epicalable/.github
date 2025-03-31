@@ -19,13 +19,13 @@ These are projects currently being constantly updated and maintained by our team
    <p align="left">
    <img width="150" src="https://user-images.githubusercontent.com/69076784/180637424-8d2737c9-ead7-4d65-a8e8-a2c36d9474e8.png">
    </p >
-   Jarvis is a simple Chatbot (responses generated from a json file) with a GUI capable of chatting and retrieving information, daily news from the internet for it's user using python.
+   Jarvis is a simple ML Chatbot (responses trained on a json file) with a GUI capable of chatting and retrieving information, daily news from the internet for it's user using python.
 
 2. [ComDash](https://github.com/Epicalable/ComDash):
    <p align="left">
    <img width="150" src="https://github.com/Epicalable/.github/assets/69076784/6191c860-39d9-4065-9136-b7a5e6e95cb4">
    </p >
-   ComDash is an All-in-one Stunning Web-based Dashboard for News, Weathers and More for it's Users using APIs and uses Html, CSS and JavaScript for it's frontend.
+   ComDash is an All-in-one Stunning Web-based Dashboard for News, Weathers and More for it's Users using APIs and written using React Native as the frontend.
 
 # Our website And External Links
 Check out our Official Website to learn more about who we are and what we do:- [Epicalable](https://epicalable.github.io/epicalable.html)    
